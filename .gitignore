@@ -1,0 +1,11 @@
+# Ignore environment and database
+Backend/venv/
+Backend/db.sqlite3
+Backend/__pycache__/
+
+# Ignore frontend dependencies
+Frontend/node_modules/
+Frontend/dist/
+
+# System files
+.DS_Store
